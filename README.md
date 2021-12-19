@@ -1,8 +1,8 @@
 # TODO LIST
 
 ```
-O usuário pode anotar sua tarefa e ao apertar enter ela entrará na lista, 
-também é possível riscar a tarefa apertando no checkbox, ou também retirá-la apertando no X.
+O usuário pode anotar sua tarefa e ao apertar enter ela entrará na lista, também é possível
+riscar a tarefa apertando no checkbox, ou também retirá-la apertando no X.
 
 ```
 
